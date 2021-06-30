@@ -1,2 +1,2 @@
 # Chat
- Chat Box
+Chat Box bu loyiha telegram ga oxshash bolib, bu orqali turli xil dostlar bilan tanishishingiz mumkin boladi!

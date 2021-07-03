@@ -35,7 +35,7 @@
                 <div class="content">
                     <img src="php/images/<?php echo $row['img']; ?>" alt="image">
                     <div class="details">
-                        <span><?php echo $row['fname'] . " " . $row['surname']; ?> &nbsp;</span>
+                        <span><?php echo $row['fname'] . " " . $row['surname']; ?></span>
                         <p><?php echo $row['belgi']; ?></p>
                     </div>
                 </div>

@@ -27,7 +27,7 @@ while($row=$result->fetch_assoc())
         <img src="php/images/' . $row['img'] .'">
         <div class="details">
             <span>' . $row['fname'] . " ". $row['surname'] . '</span>
-            <p>'. $msg .'</p>
+            <p>'.$msg .'</p>
         </div>
     </div>
     <div class="status-dot '.$offline.' "><i class="fas fa-circle"></i></div>

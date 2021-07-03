@@ -140,7 +140,7 @@ form .name-details .field:first-child
 {
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: space-between;
     padding-bottom: 20px;
     border-bottom: 1px solid #e6e6e6;
 }

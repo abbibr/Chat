@@ -6,6 +6,8 @@
     }
 ?>
 
+<link rel="stylesheet" href="https://cdn.ragwit.com/mervick/emojionearea/master/dist/emojionearea.min.css">
+
 <style type="text/css">
 		#lbOuter
 		{
@@ -111,6 +113,7 @@
     </div>
 
     <script src="javascript/chat.js"></script>
+    <script src="https://cdn.ragwit.com/mervick/emojionearea/master/dist/emojionearea.min.js"></script>
 
 </body>
 </html>
